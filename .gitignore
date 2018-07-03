@@ -1,0 +1,8 @@
+# normally, you would use the below to avoid storing passwords
+# in a git repository. 
+# <--- Uncomment the next two lines when working on your own project. --->
+ .env
+ db_credentials.php
+/nbproject/private/
+.DS_Store
+src/.DS_Store
